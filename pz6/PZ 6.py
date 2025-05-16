@@ -24,6 +24,7 @@ def main():
     result = index(A)
     
     # Выводим результат
+    
     print(result)
 
 main()
